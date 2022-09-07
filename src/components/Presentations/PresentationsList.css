@@ -1,0 +1,9 @@
+.presentations-list {
+  list-style: none;
+  padding: 0;
+}
+
+.presentations-list__fallback {
+  color: white;
+  text-align: center;
+}
